@@ -13,8 +13,8 @@ def main():
     changed_files = [filename[len(origin):] for filename in changed_files]
     for i in progressbar(range(len(files)), redirect_stdout=True):
         new_path = newdir + cleanse_path(changed_files[i])
-        print(f"going to move {files[i]} to {new_path}")
-        # os.popen(f"cp {files[i]} {new_path}")
+        # print(f"going to move {files[i]} to {new_path}")
+        os.popen(f"cp {files[i]} {new_path}")
 
 
 
