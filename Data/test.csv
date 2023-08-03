@@ -1,0 +1,217 @@
+,source,motion,subject,muscle,run,mode,speed,angle correlation
+0,moca,bodyl,ya3m,cam1,1,all,slow,0.9684096401824133
+1,moca,bodyl,ya3m,cam1,3,all,slow,0.9611097853626611
+2,moca,bodyl,ya3m,cam1,2,all,slow,0.9827582754353231
+3,moca,bodyl,ya3m,cam1,1,all,fast,0.965013557560016
+4,moca,bodyl,ya3m,cam1,3,all,fast,0.9678842807962267
+5,moca,bodyl,ya3m,cam1,2,all,fast,0.9813528618856459
+6,moca,bodyl,ssi2f,cam1,1,all,slow,0.9616266765503597
+7,moca,bodyl,ssi2f,cam1,3,all,slow,0.9291996133441257
+8,moca,bodyl,ssi2f,cam1,2,all,slow,0.9370669044496696
+9,moca,bodyl,ssi2f,cam1,1,all,fast,0.9450153412288173
+10,moca,bodyl,ssi2f,cam1,3,all,fast,0.9583235449435203
+11,moca,bodyl,ssi2f,cam1,2,all,fast,0.9365863498704153
+12,moca,bodyl,cg1f,cam1,1,all,slow,0.9544271375577397
+13,moca,bodyl,cg1f,cam1,3,all,slow,0.9280096735842427
+14,moca,bodyl,cg1f,cam1,2,all,slow,0.8396166715752569
+15,moca,bodyl,cg1f,cam1,1,all,fast,0.5045507044808624
+16,moca,bodyl,cg1f,cam1,3,all,fast,0.9135190609163205
+17,moca,bodyl,cg1f,cam1,2,all,fast,0.9086491634584876
+18,moca,bodyl,gsp1m,cam2,1,all,slow,0.9789765964456647
+19,moca,bodyl,gsp1m,cam2,3,all,slow,0.9668381272719517
+20,moca,bodyl,gsp1m,cam2,2,all,slow,0.9255969591964746
+21,moca,bodyl,gsp1m,cam2,1,all,fast,0.8738225078154993
+22,moca,bodyl,gsp1m,cam2,3,all,fast,0.9670331026061675
+23,moca,bodyl,gsp1m,cam2,2,all,fast,0.9733846069626158
+24,moca,bodyl,ch2m,cam2,1,all,slow,0.37537767770274477
+25,moca,bodyl,ch2m,cam2,3,all,slow,0.9819422783485173
+26,moca,bodyl,ch2m,cam2,2,all,slow,0.9770625584609308
+27,moca,bodyl,ch2m,cam2,1,all,fast,0.7899225255912395
+28,moca,bodyl,ch2m,cam2,3,all,fast,0.9303168147264423
+29,moca,bodyl,ch2m,cam2,2,all,fast,0.9751011989947758
+30,moca,bodyl,es3f,cam1,1,all,slow,{'correlation': nan}
+31,moca,bodyl,es3f,cam1,3,all,slow,{'correlation': nan}
+32,moca,bodyl,es3f,cam1,2,all,slow,{'correlation': nan}
+33,moca,bodyl,es3f,cam1,1,all,fast,{'correlation': nan}
+34,moca,bodyl,es3f,cam1,3,all,fast,{'correlation': nan}
+35,moca,bodyl,es3f,cam1,2,all,fast,{'correlation': nan}
+36,moca,shoulderfe,ya3m,cam1,1,all,slow,0.997174242299027
+37,moca,shoulderfe,ya3m,cam1,3,all,slow,0.994068192146968
+38,moca,shoulderfe,ya3m,cam1,2,all,slow,0.9970736984029538
+39,moca,shoulderfe,ya3m,cam1,1,all,fast,0.5968673210269924
+40,moca,shoulderfe,ya3m,cam1,3,all,fast,0.8000000516866809
+41,moca,shoulderfe,ya3m,cam1,2,all,fast,0.8111898331107329
+42,moca,shoulderfe,ssi2f,cam1,1,all,slow,0.24296369852079838
+43,moca,shoulderfe,ssi2f,cam1,3,all,slow,0.744731776868049
+44,moca,shoulderfe,ssi2f,cam1,2,all,slow,0.6861774223484481
+45,moca,shoulderfe,ssi2f,cam1,1,all,fast,0.5084089108065438
+46,moca,shoulderfe,ssi2f,cam1,3,all,fast,0.29992103521678704
+47,moca,shoulderfe,ssi2f,cam1,2,all,fast,0.338169915966277
+48,moca,shoulderfe,cg1f,cam1,1,all,slow,0.9687863654342026
+49,moca,shoulderfe,cg1f,cam1,3,all,slow,0.9138926262143711
+50,moca,shoulderfe,cg1f,cam1,2,all,slow,0.9000205711153122
+51,moca,shoulderfe,cg1f,cam1,1,all,fast,0.967422389978472
+52,moca,shoulderfe,cg1f,cam1,3,all,fast,0.9305159294839893
+53,moca,shoulderfe,cg1f,cam1,2,all,fast,0.9412988829900389
+54,moca,shoulderfe,gsp1m,cam1,1,all,slow,0.9907524031112457
+55,moca,shoulderfe,gsp1m,cam1,3,all,slow,0.7124935685421172
+56,moca,shoulderfe,gsp1m,cam1,2,all,slow,0.9583582214992302
+57,moca,shoulderfe,gsp1m,cam1,1,all,fast,0.9225304632296638
+58,moca,shoulderfe,gsp1m,cam1,3,all,fast,0.8878464218161902
+59,moca,shoulderfe,gsp1m,cam1,2,all,fast,0.9566955932279959
+60,moca,shoulderfe,ch2m,cam1,1,all,slow,0.8201328445910351
+61,moca,shoulderfe,ch2m,cam1,3,all,slow,0.8465046184710766
+62,moca,shoulderfe,ch2m,cam1,2,all,slow,0.9093961954493022
+63,moca,shoulderfe,ch2m,cam1,1,all,fast,0.8291615944193768
+64,moca,shoulderfe,ch2m,cam1,3,all,fast,{'correlation': nan}
+65,moca,shoulderfe,ch2m,cam1,2,all,fast,0.8170452582096643
+66,moca,shoulderfe,es3f,cam1,1,all,slow,{'correlation': nan}
+67,moca,shoulderfe,es3f,cam1,3,all,slow,{'correlation': nan}
+68,moca,shoulderfe,es3f,cam1,2,all,slow,{'correlation': nan}
+69,moca,shoulderfe,es3f,cam1,1,all,fast,{'correlation': nan}
+70,moca,shoulderfe,es3f,cam1,3,all,fast,{'correlation': nan}
+71,moca,shoulderfe,es3f,cam1,2,all,fast,{'correlation': nan}
+72,moca,bicepc,ya3m,cam1,1,all,slow,
+73,moca,bicepc,ya3m,cam1,3,all,slow,
+74,moca,bicepc,ya3m,cam1,2,all,slow,0.46169154057074324
+75,moca,bicepc,ya3m,cam1,1,all,fast,
+76,moca,bicepc,ya3m,cam1,3,all,fast,-0.11023194277069898
+77,moca,bicepc,ya3m,cam1,2,all,fast,0.6185108256621085
+78,moca,bicepc,ssi2f,cam1,1,all,slow,-0.206836654140171
+79,moca,bicepc,ssi2f,cam1,3,all,slow,
+80,moca,bicepc,ssi2f,cam1,2,all,slow,-0.188501429838784
+81,moca,bicepc,ssi2f,cam1,1,all,fast,0.2887941186621511
+82,moca,bicepc,ssi2f,cam1,3,all,fast,0.6423041667856343
+83,moca,bicepc,ssi2f,cam1,2,all,fast,
+84,moca,bicepc,cg1f,cam1,1,all,slow,0.7634437539965256
+85,moca,bicepc,cg1f,cam1,3,all,slow,
+86,moca,bicepc,cg1f,cam1,2,all,slow,
+87,moca,bicepc,cg1f,cam1,1,all,fast,
+88,moca,bicepc,cg1f,cam1,3,all,fast,
+89,moca,bicepc,cg1f,cam1,2,all,fast,
+90,moca,bicepc,gsp1m,cam1,1,all,slow,-0.6438521055823315
+91,moca,bicepc,gsp1m,cam1,3,all,slow,
+92,moca,bicepc,gsp1m,cam1,2,all,slow,-0.515068463953374
+93,moca,bicepc,gsp1m,cam1,1,all,fast,
+94,moca,bicepc,gsp1m,cam1,3,all,fast,0.2838493233406273
+95,moca,bicepc,gsp1m,cam1,2,all,fast,0.7935299146169436
+96,moca,bicepc,ch2m,cam1,1,all,slow,
+97,moca,bicepc,ch2m,cam1,3,all,slow,
+98,moca,bicepc,ch2m,cam1,2,all,slow,-0.6642029479456569
+99,moca,bicepc,ch2m,cam1,1,all,fast,0.7349074946580063
+100,moca,bicepc,ch2m,cam1,3,all,fast,
+101,moca,bicepc,ch2m,cam1,2,all,fast,-0.01692257724212
+102,moca,bicepc,es3f,cam1,1,all,slow,0.10970031538105444
+103,moca,bicepc,es3f,cam1,3,all,slow,0.29388505098432904
+104,moca,bicepc,es3f,cam1,2,all,slow,0.5571176370161253
+105,moca,bicepc,es3f,cam1,1,all,fast,-0.5443730470512474
+106,moca,bicepc,es3f,cam1,3,all,fast,0.578291721510327
+107,moca,bicepc,es3f,cam1,2,all,fast,0.31529845568586656
+108,moca,chestaa,ya3m,cam1,1,all,slow,0.5939695943329333
+109,moca,chestaa,ya3m,cam1,3,all,slow,0.9871201900836843
+110,moca,chestaa,ya3m,cam1,2,all,slow,0.8338803129924043
+111,moca,chestaa,ya3m,cam1,1,all,fast,0.989505003725056
+112,moca,chestaa,ya3m,cam1,3,all,fast,0.5721615037324371
+113,moca,chestaa,ya3m,cam1,2,all,fast,0.9880930443194875
+114,moca,chestaa,ssi2f,cam1,1,all,slow,0.9657812688409944
+115,moca,chestaa,ssi2f,cam1,3,all,slow,0.9773524273699037
+116,moca,chestaa,ssi2f,cam1,2,all,slow,0.9898320947720417
+117,moca,chestaa,ssi2f,cam1,1,all,fast,0.9630069253928241
+118,moca,chestaa,ssi2f,cam1,3,all,fast,0.8161391713584779
+119,moca,chestaa,ssi2f,cam1,2,all,fast,0.792844743099694
+120,moca,chestaa,cg1f,cam1,1,all,slow,0.992521899308513
+121,moca,chestaa,cg1f,cam1,3,all,slow,0.9973388153111176
+122,moca,chestaa,cg1f,cam1,2,all,slow,0.9899147928960593
+123,moca,chestaa,cg1f,cam1,1,all,fast,0.9799474396200777
+124,moca,chestaa,cg1f,cam1,3,all,fast,0.9042147010910392
+125,moca,chestaa,cg1f,cam1,2,all,fast,0.9860621706495654
+126,moca,chestaa,gsp1m,cam1,1,all,slow,0.9887651275514969
+127,moca,chestaa,gsp1m,cam1,3,all,slow,0.9909143425016601
+128,moca,chestaa,gsp1m,cam1,2,all,slow,0.996624969075158
+129,moca,chestaa,gsp1m,cam1,1,all,fast,0.9536207307479473
+130,moca,chestaa,gsp1m,cam1,3,all,fast,0.9207403557345754
+131,moca,chestaa,gsp1m,cam1,2,all,fast,0.9420219941647235
+132,moca,chestaa,ch2m,cam1,1,all,slow,0.9796124435041377
+133,moca,chestaa,ch2m,cam1,3,all,slow,0.9947283002625186
+134,moca,chestaa,ch2m,cam1,2,all,slow,0.9880244380942134
+135,moca,chestaa,ch2m,cam1,1,all,fast,0.9611743318976568
+136,moca,chestaa,ch2m,cam1,3,all,fast,0.990848371050871
+137,moca,chestaa,ch2m,cam1,2,all,fast,0.9915485129500256
+138,moca,chestaa,es3f,cam1,1,all,slow,0.9987338124120724
+139,moca,chestaa,es3f,cam1,3,all,slow,0.6177842133363596
+140,moca,chestaa,es3f,cam1,2,all,slow,0.9796929221140325
+141,moca,chestaa,es3f,cam1,1,all,fast,0.971235140618439
+142,moca,chestaa,es3f,cam1,3,all,fast,0.8053740340919852
+143,moca,chestaa,es3f,cam1,2,all,fast,0.9178436019796751
+144,moca,fingerp,ya3m,cam1,1,all,slow,
+145,moca,fingerp,ya3m,cam1,3,all,slow,0.8751488581035967
+146,moca,fingerp,ya3m,cam1,2,all,slow,{'correlation': nan}
+147,moca,fingerp,ya3m,cam1,1,all,fast,-0.03705867561234631
+148,moca,fingerp,ya3m,cam1,3,all,fast,0.7959655246552506
+149,moca,fingerp,ya3m,cam1,2,all,fast,0.8526000183851139
+150,moca,fingerp,ssi2f,cam1,1,all,slow,0.7837847368626961
+151,moca,fingerp,ssi2f,cam1,3,all,slow,0.6284700141440602
+152,moca,fingerp,ssi2f,cam1,2,all,slow,0.8557798891015186
+153,moca,fingerp,ssi2f,cam1,1,all,fast,0.5942469811987211
+154,moca,fingerp,ssi2f,cam1,3,all,fast,0.551649203298317
+155,moca,fingerp,ssi2f,cam1,2,all,fast,0.34194604255049543
+156,moca,fingerp,cg1f,cam1,1,all,slow,0.9847155682407971
+157,moca,fingerp,cg1f,cam1,3,all,slow,{'correlation': nan}
+158,moca,fingerp,cg1f,cam1,2,all,slow,0.9733984994063769
+159,moca,fingerp,cg1f,cam1,1,all,fast,0.7691303067078646
+160,moca,fingerp,cg1f,cam1,3,all,fast,0.8630542961635301
+161,moca,fingerp,cg1f,cam1,2,all,fast,0.8645488942720346
+162,moca,fingerp,gsp1m,cam1,1,all,slow,0.8992979572476658
+163,moca,fingerp,gsp1m,cam1,3,all,slow,0.9421900088400665
+164,moca,fingerp,gsp1m,cam1,2,all,slow,0.9639867781823301
+165,moca,fingerp,gsp1m,cam1,1,all,fast,0.7637113598518751
+166,moca,fingerp,gsp1m,cam1,3,all,fast,0.8718562792737389
+167,moca,fingerp,gsp1m,cam1,2,all,fast,0.7896366093658177
+168,moca,fingerp,ch2m,cam1,1,all,slow,-0.6029300374876978
+169,moca,fingerp,ch2m,cam1,3,all,slow,0.8797339611417281
+170,moca,fingerp,ch2m,cam1,2,all,slow,0.31711196692475174
+171,moca,fingerp,ch2m,cam1,1,all,fast,0.4131317310845973
+172,moca,fingerp,ch2m,cam1,3,all,fast,0.7700883169364892
+173,moca,fingerp,ch2m,cam1,2,all,fast,0.21298968974498805
+174,moca,fingerp,es3f,cam1,1,all,slow,{'correlation': nan}
+175,moca,fingerp,es3f,cam1,3,all,slow,{'correlation': nan}
+176,moca,fingerp,es3f,cam1,2,all,slow,{'correlation': nan}
+177,moca,fingerp,es3f,cam1,1,all,fast,{'correlation': nan}
+178,moca,fingerp,es3f,cam1,3,all,fast,{'correlation': nan}
+179,moca,fingerp,es3f,cam1,2,all,fast,{'correlation': nan}
+180,moca,shoulderaa,ya3m,cam2,1,all,slow,0.5070121143957339
+181,moca,shoulderaa,ya3m,cam2,3,all,slow,0.48451200656195115
+182,moca,shoulderaa,ya3m,cam2,2,all,slow,0.44924736376896657
+183,moca,shoulderaa,ya3m,cam2,1,all,fast,0.23224415753718133
+184,moca,shoulderaa,ya3m,cam2,3,all,fast,0.5520099049538816
+185,moca,shoulderaa,ya3m,cam2,2,all,fast,0.27076249346077924
+186,moca,shoulderaa,ssi2f,cam2,1,all,slow,0.9573037926154179
+187,moca,shoulderaa,ssi2f,cam2,3,all,slow,0.8745049941846963
+188,moca,shoulderaa,ssi2f,cam2,2,all,slow,0.7764271757360095
+189,moca,shoulderaa,ssi2f,cam2,1,all,fast,0.9232372110387131
+190,moca,shoulderaa,ssi2f,cam2,3,all,fast,0.8579878970051964
+191,moca,shoulderaa,ssi2f,cam2,2,all,fast,0.9113183674059742
+192,moca,shoulderaa,cg1f,cam2,1,all,slow,0.9868758451823081
+193,moca,shoulderaa,cg1f,cam2,3,all,slow,0.9939878697113768
+194,moca,shoulderaa,cg1f,cam2,2,all,slow,0.9985933829171385
+195,moca,shoulderaa,cg1f,cam2,1,all,fast,0.8461974810232232
+196,moca,shoulderaa,cg1f,cam2,3,all,fast,0.8549650200223083
+197,moca,shoulderaa,cg1f,cam2,2,all,fast,0.8332589006188724
+198,moca,shoulderaa,gsp1m,cam2,1,all,slow,0.9980748489664122
+199,moca,shoulderaa,gsp1m,cam2,3,all,slow,0.8758378450064714
+200,moca,shoulderaa,gsp1m,cam2,2,all,slow,0.997591367166756
+201,moca,shoulderaa,gsp1m,cam2,1,all,fast,0.4192375047528222
+202,moca,shoulderaa,gsp1m,cam2,3,all,fast,0.9504537365256047
+203,moca,shoulderaa,gsp1m,cam2,2,all,fast,0.8248303349159276
+204,moca,shoulderaa,ch2m,cam2,1,all,slow,0.9890144686430704
+205,moca,shoulderaa,ch2m,cam2,3,all,slow,0.971865714150622
+206,moca,shoulderaa,ch2m,cam2,2,all,slow,0.953028945347818
+207,moca,shoulderaa,ch2m,cam2,1,all,fast,0.9199005732652743
+208,moca,shoulderaa,ch2m,cam2,3,all,fast,0.9729505343069189
+209,moca,shoulderaa,ch2m,cam2,2,all,fast,0.9578248618713547
+210,moca,shoulderaa,es3f,cam2,1,all,slow,0.4402440989041121
+211,moca,shoulderaa,es3f,cam2,3,all,slow,0.9392520971290056
+212,moca,shoulderaa,es3f,cam2,2,all,slow,0.3788287384512824
+213,moca,shoulderaa,es3f,cam2,1,all,fast,0.8204759784879415
+214,moca,shoulderaa,es3f,cam2,3,all,fast,0.9379544975459305
+215,moca,shoulderaa,es3f,cam2,2,all,fast,0.421019645848709
